@@ -1,0 +1,18 @@
+header{
+    background-color:blanchedalmond;
+}
+
+.banner{
+   width:100%;
+}
+
+.container{
+    width: 80%;
+    background-color:blanchedalmond;
+    margin:auto ;
+}
+
+footer{
+    background-color:blanchedalmond;
+    width: 100%;
+}
